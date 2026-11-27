@@ -66,7 +66,7 @@ def page16(gameState: dict) -> int:
 
         elif reponse == "2":
             choix = True
-            res = 18
+            res = 19
             
         else:
             input("Réponse non conforme, appuie sur Entrée pour recommencer ...")
